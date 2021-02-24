@@ -1,7 +1,7 @@
 # MVC-pattern
 # Online Food Ordering System
 
-an web based application where people can order food sitting at home. they can see the food item list, select quantities and confirm the order by giving address details. also they can select payment method, give a ticket tag and edit their user details if needed.
+an web based application where people can order food sitting at home. they can see the food item list with price, select quantities and confirm the order by giving address details. also they can select payment method, give a ticket tag and edit their user details if needed.
 
 project status: in progress
 
